@@ -12,7 +12,7 @@
         <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" />
       </p>
       <p align="left">
-        <a href="https://github.com/mishrashardendu22" target="blank">
+        <a href="https://github.com/ShardenduMishra22" target="blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
         </a>
       </p>
