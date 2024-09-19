@@ -2,7 +2,10 @@
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
 
 
+## Fun GIF
+
 ![Broly Vegeta GIF](https://media.tenor.com/images/65b78e6a8ab3dcab0aa3372d0b943f6b/tenor.gif)
+
 
 
 
