@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpxcmxjbm5ndTllcmpleWZlN3Y5eXBwMjVmc2swYjMwbDliaTNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hAXgeLu0zsrDSQShK/giphy.gif" alt="Banner Image"/></a>
+  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Banner Image"/></a>
 </p>
 <h1 align="center">Hi 👋, I am Mishra Shardendu</h1>
 
