@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi 👋, I am Mishra Shardendu</h1> 
 <table style="width: 100%;">
   <tr>
@@ -18,8 +17,8 @@
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
       </div>
+    </td> 
   <tr>
-    </td>
     <td style="text-align: right; width: 50%;">
       <img src="giphy.gif" alt="Animated GIF" width="300"/>
     </td>
