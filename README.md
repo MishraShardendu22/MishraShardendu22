@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
-
 <table style="width: 100%;">
   <tr>
+    <h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
     <td style="vertical-align: top; width: 50%;">
       <h3>A Full-Stack Developer and Tech Enthusiast from India.</h3>
       <p align="left">
