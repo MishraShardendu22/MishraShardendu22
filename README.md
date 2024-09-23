@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://res.cloudinary.com/dyn0acb0k/image/upload/v1728244545/gywdyidkohunzbakmlgn.gif" alt="Banner Image"/></a>
+  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://animehunch.com/wp-content/uploads/2021/01/Screenshot-18.jpg" alt="Banner Image"/></a>
 </p>
 <h1 align="center">Hi 👋, I am Mishra Shardendu</h1>
 
