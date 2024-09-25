@@ -186,13 +186,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
-
----
-
-[![MishraShardendu22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MishraShardendu22&bg_color=000000&color=ae00ff&line=e000d1&point=a8f207&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
