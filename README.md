@@ -1,4 +1,6 @@
-<div class="tenor-gif-embed" data-postid="13803882" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/broly-vegeta-ssg-super-saiyan-god-saiyans-gif-13803882">Broly Vegeta GIF</a>from <a href="https://tenor.com/search/broly-gifs">Broly GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="13803882" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/broly-vegeta-ssg-super-saiyan-god-saiyans-gif-13803882">Broly Vegeta GIF</a>from <a href="https://tenor.com/search/broly-gifs">Broly GIFs</a>
+</div> 
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1>Hi 👋, I'm Mishra Shardendu</h1>
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
