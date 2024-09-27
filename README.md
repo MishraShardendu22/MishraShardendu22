@@ -65,6 +65,10 @@
 
 ---
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANAS727189&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8">
+
+---
+
 [![MishraShardendu22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MishraShardendu22&bg_color=000000&color=ae00ff&line=e000d1&point=a8f207&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
