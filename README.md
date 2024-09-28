@@ -196,11 +196,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
-
----
-
-<img align="left" height="200" src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/refs/heads/main/Velocity.png"  />
-<img align="right" height="200" src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/refs/heads/main/Professional_DP_Ghibli.png"  />
-<div align="center">
-  <img height="200" src="https://github.com/MishraShardendu22/MishraShardendu22/blob/main/Parashuram-Rounded.jpg?raw=true"  />
-</div>
