@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpxcmxjbm5ndTllcmpleWZlN3Y5eXBwMjVmc2swYjMwbDliaTNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hAXgeLu0zsrDSQShK/giphy.gif" alt="Banner Image"/></a>
-</p>
+![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpxcmxjbm5ndTllcmpleWZlN3Y5eXBwMjVmc2swYjMwbDliaTNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hAXgeLu0zsrDSQShK/giphy.gif)
 <h1 align="center">Hi 👋, I am Mishra Shardendu</h1>
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
