@@ -1,4 +1,5 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1hAXgeLu0zsrDSQShK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dragonballsuper-vegeta-dragonball-dbsuper-1hAXgeLu0zsrDSQShK">via GIPHY</a></p>
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpxcmxjbm5ndTllcmpleWZlN3Y5eXBwMjVmc2swYjMwbDliaTNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1hAXgeLu0zsrDSQShK/giphy.gif)
+
 <h1>Hi 👋, I'm Mishra Shardendu</h1>
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
