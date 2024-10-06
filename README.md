@@ -1,14 +1,25 @@
+<h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
+
 <table style="width: 100%;">
   <tr>
-    <h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
     <td style="vertical-align: top; width: 50%;">
       <h3>A Full-Stack Developer and Tech Enthusiast from India.</h3>
+      <p>
+        Passionate about building interactive applications and learning new technologies. 
+        I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
+        and contribute to innovative solutions. 
+      </p>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" />
       </p>
       <p align="left">
+        <a href="https://github.com/mishrashardendu22" target="blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+        </a>
+      </p>
+      <p align="left">
         <a href="https://instagram.com/shardendumishra22" target="blank">
-          <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="your_instagram_username" />
+          <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
       </p>
     </td>
