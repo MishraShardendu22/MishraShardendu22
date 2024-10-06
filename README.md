@@ -1,6 +1,4 @@
-<div class="tenor-gif-embed" data-postid="13803882" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/broly-vegeta-ssg-super-saiyan-god-saiyans-gif-13803882">Broly Vegeta GIF</a>from <a href="https://tenor.com/search/broly-gifs">Broly GIFs</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1hAXgeLu0zsrDSQShK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dragonballsuper-vegeta-dragonball-dbsuper-1hAXgeLu0zsrDSQShK">via GIPHY</a></p>
 <h1>Hi 👋, I'm Mishra Shardendu</h1>
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
