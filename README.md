@@ -1,5 +1,7 @@
+<p align="center">
+  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://tenor.com/55bq.gif" alt="Banner Image"/></a>
+</p>
 <h1 align="left">Hi 👋, I'm Mishra Shardendu</h1> <!-- Moved name to top left -->
-<img src="https://tenor.com/55bq.gif" alt="Gif" align="right" width="200" /> <!-- Added GIF to top right -->
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
 
