@@ -187,4 +187,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShardenduMishra22&langs_count=100)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishraShardendu22&langs_count=100)
