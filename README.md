@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mishra Shardendu</h1>
+<h1 align="left">Hi 👋, I'm Mishra Shardendu</h1> <!-- Moved name to top left -->
+<img src="https://tenor.com/55bq.gif" alt="Gif" align="right" width="200" /> <!-- Added GIF to top right -->
+
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" /> </p>
