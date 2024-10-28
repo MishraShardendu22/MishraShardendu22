@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mishra Shardendu</h1>
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
 
-
-## Fun GIF
-
-![Broly Vegeta GIF](https://media.tenor.com/images/65b78e6a8ab3dcab0aa3372d0b943f6b/tenor.gif)
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shardendu_m" target="blank"><img src="https://img.shields.io/twitter/follow/shardendu_m?logo=twitter&style=for-the-badge" alt="shardendu_m" /></a> </p>
