@@ -1,17 +1,20 @@
 <h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
-<p align="right">
-  <img src="giphy.gif" alt="Animated GIF" width="300"/>
-</p>
-
-<h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" /> </p>
-
-<p align="left">
-  <a href="https://instagram.com/shardendumishra22" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="your_instagram_username" />
-  </a>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <h3>A Full-Stack developer and Tech Enthusiast from India.</h3>
+    <p>
+      <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" />
+    </p>
+    <p>
+      <a href="https://instagram.com/shardendumishra22" target="blank">
+        <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="your_instagram_username" />
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="giphy.gif" alt="Animated GIF" width="300"/>
+  </div>
+</div>
 
 - 🔭 I’m currently working on [Cloudinary SaaS Applciation](https://github.com/MishraShardendu22/cloudianry-saas)
 
