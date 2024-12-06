@@ -1,9 +1,7 @@
-![Alt Text](giphy.gif)
-
-<p align="center">
-  <a href="https://github.com/MishraShardendu22"><img width=70% src="https://animehunch.com/wp-content/uploads/2021/01/Screenshot-18.jpg" alt="Banner Image"/></a>
+<h1 align="left">Hi 👋, I am Mishra Shardendu</h1>
+<p align="right">
+  <img src="giphy.gif" alt="Animated GIF" width="300"/>
 </p>
-<h1 align="center">Hi 👋, I am Mishra Shardendu</h1>
 
 <h3 align="center">A Full-Stack developer and Tech Enthusiast from India.</h3>
 
