@@ -9,19 +9,17 @@
         I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
         and contribute to innovative solutions. 
       </p>
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" />
-      </p>
-      <p align="left">
-        <a href="https://github.com/ShardenduMishra22" target="blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-        </a>
-      </p>
-      <p align="left">
-        <a href="https://instagram.com/shardendumishra22" target="blank">
-          <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-      </p>
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+      </div>
     </td>
     <td style="text-align: right; width: 50%;">
       <img src="giphy.gif" alt="Animated GIF" width="300"/>
