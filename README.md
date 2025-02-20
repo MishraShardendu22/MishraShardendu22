@@ -38,7 +38,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
-
+  <tr>
     </td>
     <td style="text-align: right; width: 50%;">
       <img src="giphy.gif" alt="Animated GIF" width="300"/>
