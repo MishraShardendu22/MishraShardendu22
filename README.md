@@ -1,3 +1,5 @@
+![Alt Text](giphy.gif)
+
 <p align="center">
   <a href="https://github.com/MishraShardendu22"><img width=70% src="https://animehunch.com/wp-content/uploads/2021/01/Screenshot-18.jpg" alt="Banner Image"/></a>
 </p>
