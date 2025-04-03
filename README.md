@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrashardendu22&label=Profile%20views&color=0e75b6&style=flat" alt="mishrashardendu22" /> </p>
 
 <p align="left">
-  <a href="https://instagram.com/your_instagram_username" target="blank">
+  <a href="https://instagram.com/shardendumishra22" target="blank">
     <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white" alt="your_instagram_username" />
   </a>
 </p>
