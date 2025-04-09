@@ -8,6 +8,7 @@
         I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
         and contribute to innovative solutions. 
       </p>
+      ---
 <div align="center">
   <a href="https://discord.com/users/mishrashardendu22" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
