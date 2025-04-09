@@ -65,7 +65,11 @@
 
 ---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ANAS727189&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8">
+<div align="center">
+  <a href="https://github.com/MishraShardendu22">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraShardendu22&theme=radical" />
+  </a>
+</div>
 
 ---
 
