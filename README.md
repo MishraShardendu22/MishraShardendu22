@@ -38,9 +38,9 @@
 
 - 🤝 I’m looking for help with **AI/ML and Generative AI**
 
-- 📝 I regularly write articles on [https://astro-j29f8jhok-shardendu-mishra.vercel.app/](https://astro-j29f8jhok-shardendu-mishra.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://shardendu-mishra-portfolio-website.vercel.app/](https://shardendu-mishra-portfolio-website.vercel.app/)
+- 📝 I regularly write articles on [Personal Blog website](https://astro-j29f8jhok-shardendu-mishra.vercel.app/)
+  
+- 👨‍💻 All of my projects are available at [Shardendu Mishra's Portfolio Website](https://shardendu-mishra-portfolio-website.vercel.app/)
 
 - 💬 Ask me about **NextJS, React, REST and SOAP API's, and Competitive Programming**
 
