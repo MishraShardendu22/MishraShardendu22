@@ -63,6 +63,8 @@
 
 - ⚡ Fun fact **I am a competitive learner, when I am Competing with someone I learn better and faster. Usually I am competing with Shardendu Mishra**
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/output/pacman-contribution-graph.svg">
