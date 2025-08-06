@@ -1,188 +1,135 @@
-<h1 align="left">Hi 👋, I am Mishra Shardendu</h1> 
-<table style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>A Competetive Programmer, Full-Stack Developer and a Tech Enthusiast from India.</h3>
-      <p>
-        Passionate about building interactive applications and learning new technologies. 
-        I enjoy working on both front-end and back-end projects, constantly seeking to improve my skills 
-        and contribute to innovative solutions. 
-      </p>
-      <br/>
 <div align="center">
-  <a href="https://discord.com/users/mishrashardendu22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.instagram.com/shardendumishra22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="40" alt="instagram logo" />
-  </a>
-  <a href="mailto:shardendumishra01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/shardendumishra22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/23476407/shardendumishra22" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="40" alt="stackoverflow logo" />
-  </a>
-  <a href="https://x.com/Shardendu_M" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://dadaparashura-nah2206.slack.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="42" height="40" alt="slack logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61564669522206" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://t.me/MishraShardendu22" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
-  </a>
-</div>
-    </td>
-    <td style="text-align: right; width: 50%;">
-      <img src="giphy.gif" alt="Animated GIF" width="300"/>
-    </td>
-  </tr>
-</table>
-
-- 🔭 I’m currently working on [Cloudinary SaaS Applciation](https://github.com/MishraShardendu22/cloudianry-saas)
-
-- 🌱 I’m currently learning **AI/ML, Web Development, and Cloud Engineering.**
-
-- 👯 I’m looking to collaborate on [Anonymous-Feedback Application](https://github.com/MishraShardendu22/Secret-Message-Application)
-
-- 🤝 I’m looking for help with **AI/ML and Generative AI**
-
-- 📝 I regularly write articles on [Personal Blog website](https://astro-j29f8jhok-shardendu-mishra.vercel.app/)
-  
-- 👨‍💻 All of my projects are available at [Shardendu Mishra's Portfolio Website](https://shardendu-mishra-portfolio-website.vercel.app/)
-
-- 💬 Ask me about **NextJS, React, REST and SOAP API's, and Competitive Programming**
-
-- 📫 How to reach me **shardendumishra01@gmail.com**
-
-- ⚡ Fun fact **I am a competitive learner, when I am Competing with someone I learn better and faster. Usually I am competing with Shardendu Mishra**
-
----
-
-<div align="center">
-  <a href="https://github.com/MishraShardendu22">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MishraShardendu22&theme=radical" />
-  </a>
+  <img src="https://raw.githubusercontent.com/ShardenduMishra22/MishraShardendu22/refs/heads/main/GopherMishra.png" alt="Gopher Mishra" width="200"/>
 </div>
 
----
+ <div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="d3js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shardendumishra22/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mishrashardendu22.is-a.dev)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShardenduMishra22/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashardendu22@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=MishraShardendu22&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Shardendu;Software+Engineer;Systems+Architect;AI%2FML+Engineer" alt="Typing SVG" />
+</div>
+
+
+# <div align="center">Shardendu Mishra</div>
+## <div align="center">Software Engineer | Systems Architect | AI/ML Engineer</div>
+
+<div align="center">
+
+## Engineering Profile
+
+**Computer Science Engineering** at **IIIT Dharwad** (2023-2027) | **CGPA: 8.2**  
+**Software Engineer** at **Acumant** - Healthcare Technology (Feb 2025 - May 2025)  
+**API Engineer Fellow** at **Keploy** - Selected from 19K+ engineers (May 2025 - June 2025)  
+**Engineering Lead** - Velocity Development Club, IIIT Dharwad (Aug 2024 - Present)  
+
+**Specialization:** Distributed Systems, AI/ML Engineering, Cloud Architecture
+
+</div>
+
+<div align="center">
+
+## Engineering Stack
+
+### **Systems Programming & Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Cloud & Infrastructure Engineering**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Data Engineering & AI/ML**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Engineering Practices**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+<div align="center">
+
+## Engineering Analytics
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MishraShardendu22&theme=tokyo-night&hide_border=true&area=true" alt="Code Contribution Graph" width="95%"/>
+</div>
+
+## Engineering Projects & System Design
+
+<div align="center">
+
+### **Healthcare System Engineering - Neuro Assist**
+**Architecture:** MERN Stack, AI Processing Pipeline, Secure File Storage  
+**Engineering Impact:** 40% reduction in assessment processing time  
+**Technical Achievement:** Production-grade system approved as architectural benchmark  
+**System Design:** Cross-platform clinical assessment with AI-powered analysis engine
+
+### **Distributed Systems Engineering - BloodSphere**
+**Architecture:** Go microservices, AI pipeline with channels, Redis caching layer  
+**Performance Engineering:** Optimized blood bank workflows by 30%  
+**Concurrency Design:** Go goroutines, multithreading, and queue-based request handling  
+**Integration:** RAG-based AI, JWT authentication, automated workflow systems
+
+### **API Engineering & Testing Framework - Dragon Ball API**
+**System Design:** RESTful API with comprehensive testing suite  
+**Engineering Recognition:** Merged into Keploy's production API collection  
+**Test Coverage:** 80% automated testing with Jest/Supertest + AI-based validation  
+**CI/CD Engineering:** GitHub Actions pipeline with automated deployments
+
+### **Performance Engineering - Go Tool Gallery**
+**Optimization Achievement:** 93.7% performance improvement (1.5min → 16sec)  
+**Concurrent Programming:** Go channels, goroutines for parallel processing  
+**System Tools:** Web scraper, CLI utilities, terminal-based applications  
+**Architecture:** Microservices design with queue mechanisms
+
+</div>
+
+<div align="center">
+
+## Engineering Leadership & Experience
+
+### **Software Engineer - Acumant** (Feb 2025 - May 2025)
+**System Architecture:** Designed and implemented Neuro Assist healthcare platform  
+**Technical Collaboration:** Worked with engineering team and Microsoft mentor  
+**Engineering Methodology:** Agile development with Prototyping Model approach
+
+### **API Engineer Fellow - Keploy** (May 2025 - June 2025)
+**Selection Criteria:** Chosen based on engineering portfolio and technical expertise  
+**Open Source Engineering:** Contributed to production systems and GSoC program  
+**Technical Innovation:** Built LLM-powered C++ Unit Test Generator with YAML pipeline
+
+### **Engineering Lead - Velocity Club, IIIT Dharwad** (Aug 2024 - Present)
+**Technical Leadership:** Leading institution's premier engineering development team  
+**System Engineering:** Contributing to college CMS with Sanity and GROQ integration  
+**Project Engineering:** Developing modules for institutional hackathon platform
+
+</div>
+
+<div align="center">
+
+## Engineering Principles & Focus
+
+**System Design:** Architecting scalable microservices and distributed systems  
+**Performance Engineering:** Optimizing algorithms and system performance  
+**Cloud Engineering:** Building cloud-native applications with modern DevOps practices  
+**AI/ML Engineering:** Developing production-grade AI systems and pipelines  
+**Open Source Engineering:** Contributing to critical infrastructure and tooling
+
 </div>
