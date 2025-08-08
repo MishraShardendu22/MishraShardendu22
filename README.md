@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/MishraShardendu22/MishraShardendu22/raw/main/Gopher.mp4" width="200" autoplay loop muted playsinline></video>
+  <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Gopher Mishra" width="200"/>
 </div>
 
  <div align="center">
