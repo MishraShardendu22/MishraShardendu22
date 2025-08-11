@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Gopher Mishra" width="200"/>
+  <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Shardendu Mishra" width="200"/>
 </div>
 
  <div align="center">
