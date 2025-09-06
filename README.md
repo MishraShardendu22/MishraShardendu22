@@ -9,7 +9,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShardenduMishra22/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashardendu22@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=MishraShardendu22&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+[![Shardendu Mishra profile views](https://u8views.com/api/v1/github/profiles/175409658/views/day-week-month-total-count.svg)](https://u8views.com/github/MishraShardendu22)
 
 </div>
 
