@@ -28,7 +28,7 @@
 **Computer Science Engineering** at **IIIT Dharwad** (2023-2027) | **CGPA: 8.2**  
 **Software Engineer** at **Acumant** - Healthcare Technology (Feb 2025 - May 2025)  
 **API Engineer Fellow** at **Keploy** - Selected from 19K+ engineers (May 2025 - June 2025)  
-**Engineering Lead** - Velocity Development Club, IIIT Dharwad (Aug 2024 - Present)  
+**Engineering Lead** - Velocity and Vidkarya Development Club, IIIT Dharwad (Aug 2024 - Present)  
 
 **Specialization:** Distributed Systems, AI/ML Engineering, Cloud Architecture
 
