@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MishraShardendu22/MishraShardendu22/main/Gopher.gif" alt="Shardendu Mishra" width="200"/>
+  <img src="https://raw.githubusercontent.com/ShardenduMishra22/MishraShardendu22/main/Gopher.gif" alt="Shardendu Mishra" width="200"/>
 </div>
 
  <div align="center">
@@ -9,7 +9,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ShardenduMishra22/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishrashardendu22@gmail.com)
 
-[![Shardendu Mishra profile views](https://u8views.com/api/v1/github/profiles/175409658/views/day-week-month-total-count.svg)](https://u8views.com/github/MishraShardendu22)
+[![Shardendu Mishra profile views](https://u8views.com/api/v1/github/profiles/175409658/views/day-week-month-total-count.svg)](https://u8views.com/github/ShardenduMishra22)
 
 </div>
 
@@ -68,7 +68,7 @@
 
 ## Engineering Analytics
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MishraShardendu22&theme=tokyo-night&hide_border=true&area=true" alt="Code Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShardenduMishra22&theme=tokyo-night&hide_border=true&area=true" alt="Code Contribution Graph" width="95%"/>
 </div>
 
 ## Engineering Projects & System Design
