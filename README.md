@@ -1,5 +1,4 @@
-# Proof of Work 
-- Production-grade products I've designed and built outside my professional experience.
+#### Proof of Work - Production-grade products I've designed and built outside my professional experience.
 
 | | |
 |---|---|
