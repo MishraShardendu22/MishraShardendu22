@@ -1,4 +1,4 @@
-#### Proof of Work - Products I've designed and built outside my professional experience.
+#### Products I've designed and built outside my professional experience.
 
 | | |
 |---|---|
