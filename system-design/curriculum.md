@@ -5,8 +5,9 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 ## Current track
 
 - Day 1: Foundations, completed
-- Day 2: API Design, current
-- Next: Data Modeling
+- Day 2: API Design, completed
+- Day 3: Data Modeling, current
+- Next: Basic Caching, cache-aside
 
 ## Progression
 
@@ -47,4 +48,4 @@ URL shortener, rate limiter, notification system, API gateway, distributed task 
 
 ## Dependency policy
 
-The sequence adapts to prerequisites. Related concepts are grouped into chains rather than taught as isolated interview patterns. Revisions must add meaningful depth rather than repeat an earlier lesson.
+The sequence adapts to prerequisites. Related concepts are grouped into chains rather than taught as isolated interview patterns. Revisions must add meaningful depth rather than repeat the earlier explanation.
