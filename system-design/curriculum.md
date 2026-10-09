@@ -6,8 +6,9 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 
 - Day 1: Foundations, completed
 - Day 2: API Design, completed
-- Day 3: Data Modeling, current
-- Next: Basic Caching, cache-aside
+- Day 3: Data Modeling, completed
+- Day 4: Basic Caching with Cache-Aside, current
+- Next: TTL and eviction policies
 
 ## Progression
 
@@ -19,12 +20,14 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 4. Capacity estimation and back-of-the-envelope calculations
 5. API design
 6. Data modeling
-7. Basic caching
-8. Basic queues
-9. Load balancing
-10. Stateless services
-11. Horizontal vs vertical scaling
-12. Database fundamentals for system design
+7. Basic caching, cache-aside
+8. TTL and eviction policies
+9. Cache stampede and invalidation races
+10. Basic queues
+11. Load balancing
+12. Stateless services
+13. Horizontal vs vertical scaling
+14. Database fundamentals for system design
 
 ### LLD Foundations
 

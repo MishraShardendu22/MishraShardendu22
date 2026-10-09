@@ -2,14 +2,14 @@
 
 ## Current state
 
-- Current day: 3
-- Current topic: Data Modeling
+- Current day: 4
+- Current topic: Basic Caching with Cache-Aside
 - Track: Foundations
-- LLD progress: Foundations
-- HLD progress: Foundations
+- LLD progress: Foundations, repository and cache interfaces introduced
+- HLD progress: Foundations, shared cache read path introduced
 - Difficulty: Intermediate foundations
-- Previous completed day: 2
-- Next suggested concept: Basic Caching, cache-aside
+- Previous completed day: 3
+- Next suggested concept: TTL and eviction policies
 
 ## Day 1
 
@@ -26,7 +26,6 @@
 - Concepts introduced: resource-oriented contracts, HTTP method semantics, request/response schemas, validation, error contracts, pagination, idempotency, versioning, compatibility
 - Concepts reinforced: requirements and constraints, latency/throughput thinking
 - Prerequisites satisfied: requirements analysis and capacity estimation
-- Suggested next concepts: data modeling, then caching and queues
 
 ## Day 3
 
@@ -35,4 +34,12 @@
 - Concepts introduced: access-pattern-driven modeling, invariants, normalization, denormalization, primary keys, composite indexes, cursor-friendly ordering, domain-specific repository operations
 - Concepts reinforced: API contracts, pagination, latency, throughput, consistency boundaries
 - Prerequisites satisfied: requirements analysis, capacity estimation, API design
-- Suggested next concepts: basic caching, cache-aside, TTL, eviction, cache consistency
+
+## Day 4
+
+- Topic: Basic Caching with Cache-Aside
+- Classification: HLD foundation + LLD integration pattern
+- Concepts introduced: cache-aside, cache hit/miss paths, lazy population, cache invalidation, cache as derived state, cache-failure fallback
+- Concepts reinforced: API access patterns, database as source of truth, TTL as a bounded-residence mechanism, read/write consistency
+- Prerequisites satisfied: requirements and capacity estimation, API design, data modeling and access patterns
+- Suggested next concepts: TTL and eviction policies, then cache stampede and invalidation races
