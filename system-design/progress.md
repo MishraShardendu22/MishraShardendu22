@@ -2,14 +2,14 @@
 
 ## Current state
 
-- Current day: 4
-- Current topic: Basic Caching with Cache-Aside
+- Current day: 5
+- Current topic: TTL and Eviction Policies
 - Track: Foundations
-- LLD progress: Foundations, repository and cache interfaces introduced
-- HLD progress: Foundations, shared cache read path introduced
+- LLD progress: Foundations, cache adapter policy/configuration
+- HLD progress: Foundations, cache freshness and memory-pressure behavior
 - Difficulty: Intermediate foundations
-- Previous completed day: 3
-- Next suggested concept: TTL and eviction policies
+- Previous completed day: 4
+- Next suggested concept: Cache stampede and invalidation races
 
 ## Day 1
 
@@ -42,4 +42,12 @@
 - Concepts introduced: cache-aside, cache hit/miss paths, lazy population, cache invalidation, cache as derived state, cache-failure fallback
 - Concepts reinforced: API access patterns, database as source of truth, TTL as a bounded-residence mechanism, read/write consistency
 - Prerequisites satisfied: requirements and capacity estimation, API design, data modeling and access patterns
-- Suggested next concepts: TTL and eviction policies, then cache stampede and invalidation races
+
+## Day 5
+
+- Topic: TTL and Eviction Policies
+- Classification: HLD caching policy + LLD cache adapter configuration
+- Concepts introduced: TTL semantics, expiration, eviction, LRU, LFU, allkeys versus volatile policies, memory headroom, TTL jitter
+- Concepts reinforced: cache-aside, invalidation, cache as disposable derived state, database fallback
+- Prerequisites satisfied: requirements/capacity estimation, API design, data modeling, cache-aside
+- Suggested next concepts: cache stampede and invalidation races

@@ -7,8 +7,9 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 - Day 1: Foundations, completed
 - Day 2: API Design, completed
 - Day 3: Data Modeling, completed
-- Day 4: Basic Caching with Cache-Aside, current
-- Next: TTL and eviction policies
+- Day 4: Basic Caching with Cache-Aside, completed
+- Day 5: TTL and Eviction Policies, current
+- Next: Cache stampede and invalidation races
 
 ## Progression
 
