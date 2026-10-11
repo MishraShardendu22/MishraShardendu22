@@ -8,8 +8,9 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 - Day 2: API Design, completed
 - Day 3: Data Modeling, completed
 - Day 4: Basic Caching with Cache-Aside, completed
-- Day 5: TTL and Eviction Policies, current
-- Next: Cache stampede and invalidation races
+- Day 5: TTL and Eviction Policies, completed
+- Day 6: Cache Stampedes and Invalidation Races, current
+- Next: Basic Queues and Producer-Consumer Design
 
 ## Progression
 
@@ -24,7 +25,7 @@ This curriculum is dependency-driven. The repository is the source of truth for 
 7. Basic caching, cache-aside
 8. TTL and eviction policies
 9. Cache stampede and invalidation races
-10. Basic queues
+10. Basic queues and producer-consumer design
 11. Load balancing
 12. Stateless services
 13. Horizontal vs vertical scaling
@@ -52,4 +53,4 @@ URL shortener, rate limiter, notification system, API gateway, distributed task 
 
 ## Dependency policy
 
-The sequence adapts to prerequisites. Related concepts are grouped into chains rather than taught as isolated interview patterns. Revisions must add meaningful depth rather than repeat the earlier explanation.
+The sequence adapts to prerequisites. Related concepts are grouped into chains rather than taught as isolated interview patterns. Revisions must add meaningful depth rather than repeat an earlier lesson.

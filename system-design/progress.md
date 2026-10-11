@@ -2,14 +2,14 @@
 
 ## Current state
 
-- Current day: 5
-- Current topic: TTL and Eviction Policies
+- Current day: 6
+- Current topic: Cache Stampedes and Invalidation Races
 - Track: Foundations
-- LLD progress: Foundations, cache adapter policy/configuration
-- HLD progress: Foundations, cache freshness and memory-pressure behavior
+- LLD progress: Foundations, concurrency control and coordinated cache operations
+- HLD progress: Foundations, distributed cache coordination and origin protection
 - Difficulty: Intermediate foundations
-- Previous completed day: 4
-- Next suggested concept: Cache stampede and invalidation races
+- Previous completed day: 5
+- Next suggested concept: Basic Queues and Producer-Consumer Design
 
 ## Day 1
 
@@ -50,4 +50,12 @@
 - Concepts introduced: TTL semantics, expiration, eviction, LRU, LFU, allkeys versus volatile policies, memory headroom, TTL jitter
 - Concepts reinforced: cache-aside, invalidation, cache as disposable derived state, database fallback
 - Prerequisites satisfied: requirements/capacity estimation, API design, data modeling, cache-aside
-- Suggested next concepts: cache stampede and invalidation races
+
+## Day 6
+
+- Topic: Cache Stampedes and Invalidation Races
+- Classification: HLD cache coordination + LLD concurrency control
+- Concepts introduced: request coalescing, process-local single-flight, distributed per-key locks, lease tokens, conditional cache publication, coordinated invalidation, bounded origin fallback
+- Concepts reinforced: cache-aside, TTL/eviction, database authority, failure handling, consistency boundaries
+- Prerequisites satisfied: requirements/capacity estimation, API design, data modeling, cache-aside, TTL and eviction
+- Suggested next concept: basic queues and producer-consumer design
